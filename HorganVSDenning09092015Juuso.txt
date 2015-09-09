@@ -1,0 +1,13 @@
+Horgan compares the current level of development in science and computer science to the most optimistic forecasts presented. According to Horgan humanity has achieved much less than these forecasts. According to Horgan advances should be that is greater than what has been forecasted or predicted to be classified as “astonishing” discoveries.
+In a way, Denning’s views oppose those of Horgan, where Denning looks at predictions that have been surpassed, while Horgan looks at overly positive ”fantasy” predictions that the world has not lived up to (yet).
+Denning compares past forecasts, such as when in 1892 people tried to predict what the world is like in 1992, to what has actually happened. “The 1892 forecasters believed that in 1992 railroads and pneumatic tubes would be the primary means of transportation, governments would be smaller, and increased commerce would end wars.” 
+ 
+Denning vertaa vanhoja ennustuksia toteutuneeseen – tulevat löydökset ylittävät rajusti kaikki aikaisemmat odotukset. 
+
+Moore’s law has been followed pre-computer time from the first times people have started counting.
+Nowadays computers are developed by computers. But in history, the development of computers require developed humans who have developed tools over extreme long periods of time.
+Tietojenkäsittelytieteen näkökulmasta, samanlainen kuin matematiikka, ihmisistä riippuva tieteen ala, ei riipu ulkomaailman ilmiöistä. Axiomit on maailmankaikkeus spesifejä, ei ole ilmiöitä, joissa kertolasku toimii.
+Computer Science define: kuuluu tietokoneet, elektroniikka, tietojenkäsittelytieteen.
+When looking back at the field of computer science, it has followed the trajectory that Denning has depicted.
+Pimeän materian olemassaolon löydös, ollut olemassa jo kymmeniä vuosia, tullut mainstreamiin 2000 luvulla.
+Maailmankaikkeus laajenee kiihtyvällä nopeudelle.
