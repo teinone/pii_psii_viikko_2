@@ -10,4 +10,4 @@ Tietojenkäsittelytieteen näkökulmasta, samanlainen kuin matematiikka, ihmisis
 Computer Science define: kuuluu tietokoneet, elektroniikka, tietojenkäsittelytieteen.
 When looking back at the field of computer science, it has followed the trajectory that Denning has depicted.
 Pimeän materian olemassaolon löydös, ollut olemassa jo kymmeniä vuosia, tullut mainstreamiin 2000 luvulla.
-Maailmankaikkeus laajenee kiihtyvällä nopeudelle.
+Maailmankaikkeus laajenee kiihtyvällä nopeudella!
