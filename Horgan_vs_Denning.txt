@@ -1,0 +1,19 @@
+Horgan compares the current level of development in science and computer science to the most optimistic forecasts presented. According to Horgan humanity has achieved much less than these forecasts. According to Horgan advances should be that is greater than what has been forecasted or predicted to be classified as “astonishing” discoveries.
+In a way, Denning’s views oppose those of Horgan, where Denning looks at predictions that have been surpassed, while Horgan looks at overly positive ”fantasy” predictions that the world has not lived up to (yet).
+Denning compares past forecasts, such as when in 1892 people tried to predict what the world is like in 1992, to what has actually happened. “The 1892 forecasters believed that in 1992 railroads and pneumatic tubes would be the primary means of transportation, governments would be smaller, and increased commerce would end wars.”
+
+The most important message of Denning is that predicting the future is difficult even for specialists and many times the most useful statement would be "I don't know". This is in sharp contrast with Horgan's trust in his capacity to predict the future of science.
+
+Denning describes different methods for predicting the future: revelation of current realities, modeling, and scenarios. Revelation of current realities consists of gathering data on the current situation and making assumptions based on the data. Modeling implies building a set of equations or simulations and computing their metrics or parameter estimates. Scenarios are descriptions of possible futures based on different sets of assumptions.
+
+Predicting is possible on a short timescale, but on an a longer timescale ...
+ 
+Denning vertaa vanhoja ennustuksia toteutuneeseen – tulevat löydökset ylittävät rajusti kaikki aikaisemmat odotukset. 
+
+Moore’s law has been followed pre-computer time from the first times people have started counting.
+Nowadays computers are developed by computers. But in history, the development of computers require developed humans who have developed tools over extreme long periods of time.
+Tietojenkäsittelytieteen näkökulmasta, samanlainen kuin matematiikka, ihmisistä riippuva tieteen ala, ei riipu ulkomaailman ilmiöistä. Axiomit on maailmankaikkeus spesifejä, ei ole ilmiöitä, joissa kertolasku toimii.
+Computer Science define: kuuluu tietokoneet, elektroniikka, tietojenkäsittelytieteen.
+When looking back at the field of computer science, it has followed the trajectory that Denning has depicted.
+Pimeän materian olemassaolon löydös, ollut olemassa jo kymmeniä vuosia, tullut mainstreamiin 2000 luvulla.
+Maailmankaikkeus laajenee kiihtyvällä nopeudella!
